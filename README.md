@@ -14,13 +14,6 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 5. **Artificial Intelligence in Healthcare: Opportunities and Challenges** - Authors: Elizabeth G. Borycki and Andre W. Kushniruk
 
 
-### Blog Posts
-1. [Understanding Generative AI](https://towardsdatascience.com/understanding-generative-ai-the-key-to-the-future-of-ai-technology-bf050da1596)
-2. [How AI is Transforming Healthcare](https://www.forbes.com/sites/forbestechcouncil/2021/05/24/how-ai-is-transforming-healthcare/?sh=1b565f9c4e56)
-3. [Generative Adversarial Networks: The Future of AI in Healthcare](https://medium.com/@nirajdsouza/generative-adversarial-networks-the-future-of-ai-in-healthcare-57e4b8e9f1f5)
-4. [The Importance of Explainability in AI](https://www.mit.edu/en/ai-ethics/)
-5. [Challenges and Opportunities in AI Healthcare](https://www.healthcareitnews.com/blog/challenges-and-opportunities-ai-healthcare)
-
 ### Books
 1. *"Artificial Intelligence in Healthcare"* by Adam Bohr and Kaveh Memarzadeh ([Link](https://www.elsevier.com/books/artificial-intelligence-in-healthcare/bohr/978-0-12-818438-7))
 2. *"Deep Learning"* by Ian Goodfellow, Yoshua Bengio, and Aaron Courville ([Link](https://www.deeplearningbook.org/))
@@ -39,12 +32,6 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 4. **AI in Genomics: Applications and Implications** - Authors: Zeyun Yu, et al.
 5. **Genomic Medicine and Machine Learning** - Authors: Ewan Birney, et al.
 
-### Blog Posts
-1. [The Rise of AI in Genomics](https://towardsdatascience.com/the-rise-of-ai-in-genomics-c3dcd2f5b1e9)
-2. [Precision Medicine: How AI is Personalizing Healthcare](https://www.forbes.com/sites/insights-intelai/2019/08/12/precision-medicine-how-ai-is-personalizing-healthcare/)
-3. [AI in Genomics: The Future of Personalized Healthcare](https://medium.com/swlh/ai-in-genomics-the-future-of-personalized-healthcare-7c8f91f7f3d3)
-4. [How AI is Accelerating Genomic Research](https://www.genengnews.com/insights/how-ai-is-accelerating-genomic-research/)
-5. [Generative AI and Genomic Data](https://www.verdict.co.uk/generative-ai-genomic-data/)
 
 ### Books
 1. *"Genomics and the Reimagined Patient"* by Richard L. Price ([Link](https://www.springer.com/gp/book/9783030710975))
@@ -64,12 +51,6 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 4. **Leveraging AI for Data Interoperability** - Authors: John Halamka, et al.
 5. **Enhancing EHRs with AI: A Systematic Review** - Authors: Sophia Ananiadou, et al.
 
-### Blog Posts
-1. [How AI is Changing Electronic Health Records](https://www.forbes.com/sites/forbestechcouncil/2021/07/12/how-ai-is-changing-electronic-health-records/)
-2. [Integrating AI with EHRs: Opportunities and Challenges](https://healthitanalytics.com/features/integrating-ai-with-ehrs-opportunities-and-challenges)
-3. [The Future of EHRs and AI](https://hitconsultant.net/2020/06/09/the-future-of-ehrs-and-ai/)
-4. [AI in Healthcare: The Promise of EHRs](https://www.healthcareitnews.com/blog/ai-healthcare-promise-ehrs)
-5. [Data Interoperability in Healthcare](https://www.healthcaredive.com/news/data-interoperability-in-healthcare-why-its-important/570829/)
 
 ### Books
 1. *"The Digital Doctor: Hope, Hype, and Harm at the Dawn of Medicine's Computer Age"* by Robert Wachter ([Link](https://www.amazon.com/Digital-Doctor-Medicine-Computer-Technology/dp/0071849467))
@@ -89,12 +70,6 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 4. **Generative Models for Drug Design** - Authors: Yann LeCun, et al.
 5. **AI and Clinical Trials: Improving Efficiency and Outcomes** - Authors: David Sontag, et al.
 
-### Blog Posts
-1. [How AI is Revolutionizing Drug Discovery](https://www.forbes.com/sites/insights-zenith/2020/11/03/how-ai-is-revolutionizing-drug-discovery/)
-2. [Generative AI in Pharmaceutical Research](https://towardsdatascience.com/generative-ai-in-pharmaceutical-research-2a62e1ec7e1f)
-3. [The Future of AI in Drug Development](https://www.genengnews.com/insights/the-future-of-ai-in-drug-development/)
-4. [AI in Drug Discovery: The Next Big Thing](https://www.technologynetworks.com/tn/blog/ai-in-drug-discovery-the-next-big-thing-334065)
-5. [Machine Learning and AI in Drug Discovery](https://hbr.org/2020/03/how-ai-is-changing-drug-discovery)
 
 ### Books
 1. *"Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again"* by Eric Topol ([Link](https://www.basicbooks.com/titles/eric-topol/deep-medicine/9781541644649/))
@@ -114,12 +89,6 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 4. **The Ethical Implications of AI in Healthcare** - Authors: Luke Oakden-Rayner, et al.
 5. **AI and Healthcare Regulation: Navigating Ethical Dilemmas** - Authors: Gianclaudio Malgieri, et al.
 
-### Blog Posts
-1. [The Ethics of AI in Healthcare](https://www.forbes.com/sites/forbestechcouncil/2021/06/17/the-ethics-of-ai-in-healthcare/)
-2. [Why Ethics is Important in AI](https://medium.com/@ethicsai/why-ethics-is-important-in-ai-7ad1c9f054ef)
-3. [Ethical AI: Ensuring Fairness in Healthcare](https://towardsdatascience.com/ethical-ai-ensuring-fairness-in-healthcare-a9c6e0c2db60)
-4. [AI and Data Privacy in Healthcare](https://www.healthcareitnews.com/news/ai-and-data-privacy-healthcare-pros-and-cons)
-5. [Algorithmic Bias in Healthcare: What You Need to Know](https://www.brookings.edu/research/algorithmic-bias-in-healthcare/)
 
 ### Books
 1. *"Ethics of Artificial Intelligence and Robotics"* by Vincent C. Müller ([Link](https://www.routledge.com/Ethics-of-Artificial-Intelligence-and-Robotics/Muller/p/book/9780367351000))
@@ -139,12 +108,6 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 4. **AI in Global Health: Opportunities and Challenges** - Authors: Alex Pentland, et al.
 5. **AI-Driven Solutions for Global Health** - Authors: Rifat Atun, et al.
 
-### Blog Posts
-1. [How AI is Revolutionizing Global Health](https://www.forbes.com/sites/forbestechcouncil/2021/03/29/how-ai-is-revolutionizing-global-health/)
-2. [AI in Global Health: A New Era](https://medium.com/swlh/ai-in-global-health-a-new-era-2c4b5b4dbb0f)
-3. [The Role of AI in Combating Pandemics](https://www.weforum.org/agenda/2020/04/role-of-ai-in-combatting-pandemics/)
-4. [Telemedicine and AI in Developing Countries](https://www.healthcareitnews.com/news/telemedicine-and-ai-developing-countries)
-5. [Global Health Challenges and AI Solutions](https://hbr.org/2020/09/how-ai-can-help-solve-global-health-challenges)
 
 ### Books
 1. *"Global Health Informatics: Principles of eHealth and mHealth to Improve Quality of Care"* by Leo Anthony G. Celi et al. ([Link](https://www.amazon.com/Global-Health-Informatics-Principles-eHealth/dp/0262036424))
@@ -164,12 +127,6 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 4. **Virtual Therapists and AI in Mental Health** - Authors: Joseph Weizenbaum, et al.
 5. **AI and Mental Health: Ethical and Legal Considerations** - Authors: Simon Davies, et al.
 
-### Blog Posts
-1. [How AI is Transforming Mental Health Care](https://www.forbes.com/sites/forbestechcouncil/2021/04/12/how-ai-is-transforming-mental-health-care/)
-2. [Generative AI and Mental Health: New Frontiers](https://towardsdatascience.com/generative-ai-and-mental-health-new-frontiers-cf97369e6a30)
-3. [AI in Mental Health: The Future of Diagnosis and Treatment](https://hbr.org/2020/11/ai-in-mental-health-the-future-of-diagnosis-and-treatment)
-4. [How Virtual Therapists are Changing Mental Health Care](https://www.healthcareitnews.com/news/how-virtual-therapists-are-changing-mental-health-care)
-5. [The Role of AI in Mental Health](https://www.mobihealthnews.com/news/role-ai-mental-health)
 
 ### Books
 1. *"Artificial Intelligence in Behavioral and Mental Health Care"* by David D. Luxton ([Link](https://www.elsevier.com/books/artificial-intelligence-in-behavioral-and-mental-health-care/luxton/978-0-12-420248-1))
@@ -189,12 +146,6 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 4. **Optimizing Public Health with AI** - Authors: Maimuna Majumder, et al.
 5. **AI and Public Health: Trends and Innovations** - Authors: Samuel Scarpino, et al.
 
-### Blog Posts
-1. [The Role of AI in Preventive Healthcare](https://www.forbes.com/sites/forbestechcouncil/2021/07/19/the-role-of-ai-in-preventive-healthcare/)
-2. [AI in Preventive Care: A New Approach](https://www.healthitanalytics.com/features/ai-in-preventive-care-a-new-approach)
-3. [How AI is Transforming Public Health](https://medium.com/@healthIT/how-ai-is-transforming-public-health-1a6c1f1a7c24)
-4. [Predictive Analytics in Preventive Care](https://www.healthcaredive.com/news/predictive-analytics-in-preventive-care/593618/)
-5. [AI in Public Health: Challenges and Opportunities](https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/how-healthcare-systems-can-use-ai-to-transform-care)
 
 ### Books
 1. *"AI in Healthcare: Transforming the Practice of Medicine"* by Michael Matheny, Sonoo Thadaney Israni, and Mahnoor Ahmed ([Link](https://www.amazon.com/Healthcare-Transforming-Practice-Medicine-Information/dp/1260458877))
@@ -214,12 +165,6 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 4. **Wearable Devices and Predictive Analytics** - Authors: John Torous, et al.
 5. **Telemedicine and AI: Integration and Future Directions** - Authors: Ravi B. Parikh, et al.
 
-### Blog Posts
-1. [The Future of AI in Robotic Surgery](https://www.forbes.com/sites/forbestechcouncil/2021/08/09/the-future-of-ai-in-robotic-surgery/)
-2. [AI and Wearable Health Devices: Transforming Healthcare](https://towardsdatascience.com/ai-and-wearable-health-devices-transforming-healthcare-7c9dc8bcd6a6)
-3. [How AI is Revolutionizing Telemedicine](https://www.mobihealthnews.com/news/how-ai-revolutionizing-telemedicine)
-4. [The Role of AI in Wearable Technology](https://www.techrepublic.com/article/the-role-of-ai-in-wearable-technology/)
-5. [Integrating AI with Telemedicine: Challenges and Opportunities](https://www.healthcareitnews.com/news/integrating-ai-telemedicine-challenges-and-opportunities)
 
 ### Books
 1. *"AI in Healthcare Robotics: The Future of Surgery"* by Karen Panetta and Ferdinando Ametrano ([Link](https://www.amazon.com/Healthcare-Robotics-Surgery-Ferdinando-Ametrano/dp/1119665983))
@@ -239,12 +184,6 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 4. **AI in Healthcare: Emerging Trends and Future Directions** - Authors: Eric J. Topol, et al.
 5. **Strategic Planning for AI in Healthcare** - Authors: David M. Cutler, et al.
 
-### Blog Posts
-1. [The Future of AI in Healthcare](https://www.forbes.com/sites/insights-intelai/2019/08/12/the-future-of-ai-in-healthcare/)
-2. [AI in Healthcare: Trends to Watch](https://healthitanalytics.com/news/ai-in-healthcare-trends-to-watch-in-2022)
-3. [Predictive Models in Healthcare: The Future of AI](https://towardsdatascience.com/predictive-models-in-healthcare-the-future-of-ai-4c8b4f1f9f1d)
-4. [Strategic Planning for AI in Healthcare](https://www.healthcaredive.com/news/strategic-planning-for-ai-in-healthcare/574951/)
-5. [Emerging Trends in AI for Healthcare](https://hbr.org/2021/06/emerging-trends-in-ai-for-healthcare)
 
 ### Books
 1. *"Deep Medicine: How Artificial Intelligence Can Make Healthcare Human Again"* by Eric Topol ([Link](https://www.basicbooks.com/titles/eric-topol/deep-medicine/9781541644649/))
