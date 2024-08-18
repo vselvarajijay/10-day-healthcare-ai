@@ -13,6 +13,12 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 4. **The Ethics of Artificial Intelligence in Healthcare: A Systematic Literature Review** - Authors: Annette M. M. Markham, et al.
 5. **Artificial Intelligence in Healthcare: Opportunities and Challenges** - Authors: Elizabeth G. Borycki and Andre W. Kushniruk
 
+### YouTube Videos
+1. A Friendly Introduction to Generative Adversarial Networks (GANs) ([Link](https://www.youtube.com/watch?v=8L11aMN5KY8))
+2. Andrew Ng, Stanford - Stanford Medicine Big Data | Precision Health 2018 ([Link](https://www.youtube.com/watch?v=6JNo0uKnkPM))
+3. Interpretable vs Explainable Machine Learning ([Link](https://www.youtube.com/watch?v=VY7SCl_DFho))
+4. How to implement AI Ethics ([Link](https://www.youtube.com/watch?v=muLPOvIEtaw))
+5. The Challenge of Ethics and AI in Healthcare ([Link](https://www.youtube.com/watch?v=9gyx8U7wCqQ))
 
 ### Books
 1. *"Artificial Intelligence in Healthcare"* by Adam Bohr and Kaveh Memarzadeh ([Link](https://www.elsevier.com/books/artificial-intelligence-in-healthcare/bohr/978-0-12-818438-7))
