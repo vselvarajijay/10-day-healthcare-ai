@@ -191,14 +191,3 @@ This plan is designed to provide a comprehensive, in-depth understanding of gene
 3. *"The AI Advantage: How to Put the Artificial Intelligence Revolution to Work"* by Thomas H. Davenport ([Link](https://www.amazon.com/Advantage-Artificial-Intelligence-Revolution-Analytics/dp/0262538006))
 
 ---
-
-## Communities/Events to Join
-
-- **AI in Medicine Community** on LinkedIn: A community to discuss the latest trends and research in AI for healthcare.
-- **Global Health AI**: A Slack group for professionals working at the intersection of AI and global health.
-- **AI for Genomics Symposium**: An annual event that focuses on the intersection of AI and genomics.
-- **AI in Drug Discovery Conference**: A leading event that brings together experts in AI and pharmaceutical research to discuss the future of drug discovery.
-- **AI Ethics Lab**: A community focused on the ethical development of AI, with a strong emphasis on healthcare applications.
-- **Global Health AI Symposium**: An annual event discussing the impact of AI on global health.
-- **AI in Public Health Conference**: A conference dedicated to discussing the role of AI in public health and preventive care.
-- **Wearable Tech & AI Group** on LinkedIn: A community discussing the intersection of wearable technology and AI, especially in healthcare.
